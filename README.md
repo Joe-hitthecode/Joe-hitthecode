@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Joe-hitthecode
 - 👀 I love "Linux Kernel" 
 - 🌱 I’m currently learning reactnative and Javascript 
-- 💞️ I'm a computer sciene major and also a self taught developer 
+- 💞️ I'm a computer science major and also a self taught developer 
 - 📫 I am available to work on open source project 
 - Languages: C#, Python, and little bit of Javascript
 - scripting/Design: HTML, CSS
