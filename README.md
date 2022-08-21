@@ -5,7 +5,7 @@
 - 📫 I am available to work on open source project 
 - Languages: C#, Python, Javascript, Java
 - scripting/Design: HTML, CSS
-- Software engineering principle
+- Good software engineering principles
 
 <!---
 Joe-hitthecode/Joe-hitthecode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
