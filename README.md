@@ -3,8 +3,8 @@
 - 🌱 Javascript developer
 - 💞️ I'm a computer science major and also a self taught developer 
 - 📫 I am available to work on open source project 
-- Languages: C#, Python, Javascript, Java
-- scripting/Design: HTML, CSS
+- Languages: C#, Python, Javascript/Typescript, Java
+- scripting/Design: HTML, CSS, vuem, reactjs
 - Good software engineering principles
 
 <!---
