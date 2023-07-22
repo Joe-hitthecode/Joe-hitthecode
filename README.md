@@ -1,10 +1,11 @@
 - 👋 Hi, I’m @Joe-hitthecode
 - 👀 I love "Linux Kernel" 
-- 🌱 Javascript developer
+- 🌱 full stack developer
 - 💞️ I'm a computer science major and also a self taught developer 
 - 📫 I am available to work on open source project 
 - Languages: C#, Python, Javascript/Typescript, Java
-- scripting/Design: HTML, CSS, vuem, reactjs
+- scripting/Design: HTML, CSS, vuejs, reactjs
+- backend- expressjs
 - Good software engineering principles
 
 <!---
