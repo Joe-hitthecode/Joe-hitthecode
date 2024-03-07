@@ -4,7 +4,7 @@
 - 💞️ I'm a computer science major and also a self taught developer 
 - 📫 I am available to work on open source project 
 - Languages: C#, Python, Javascript/Typescript, Java
-- scripting/Design: HTML, CSS, vuejs, reactjs
+- scripting/Design: HTML, CSS, vuejs, reactjs. Figma(prototyping)
 - backend- expressjs
 - Good software engineering principles
 
