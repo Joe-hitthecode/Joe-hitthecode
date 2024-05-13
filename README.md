@@ -5,7 +5,7 @@
 - 📫 I am available to work on open source project 
 - Languages: C#, Python, Javascript/Typescript, Java
 - scripting/Design: HTML, CSS, vuejs, reactjs. Figma(prototyping)
-- backend- expressjs
+- backend- expressjs,django,
 - Good software engineering principles
 
 <!---
